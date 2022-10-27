@@ -1,0 +1,23 @@
+body
+{
+    background-color: black;
+}
+
+img
+{
+    content: url("pjes.png");
+    width: 343px;
+
+}
+
+p 
+{
+ 
+    background-color: blueviolet;
+color: magenta;
+font-weight: bolder; 
+font-size: larger;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 
+'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
