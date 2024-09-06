@@ -7,11 +7,13 @@ img
 {
     content: url("pjes.png");
     width: 343px;
-    content: url("png-transparent-paw-patrol-dog-dog-image-file-formats-animals-cartoon-thumbnail.png");
-    width: 343px;
+   
 
 }
-
+{
+ content: url("png-transparent-paw-patrol-dog-dog-image-file-formats-animals-cartoon-thumbnail.png");
+    width: 343px;
+}
 p 
 {
  
