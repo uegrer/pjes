@@ -1,0 +1,35 @@
+body
+{
+    background-color: rgb(180, 224, 159);
+    text-align: center;
+}
+
+img
+{
+    content: url("pjes.png");
+    width: 343px;
+    border: 10px solid;
+
+}
+
+p 
+{
+ 
+    
+color: rgb(202, 22, 22);
+font-weight: bolder; 
+font-size: 20px;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 
+'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+x
+{
+    color: rgb(202, 22, 22);
+    font-weight: bolder; 
+    font-size: 122px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 
+    'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    align-self: center;
+    
+}
